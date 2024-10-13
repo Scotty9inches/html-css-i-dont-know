@@ -1,0 +1,28 @@
+html {
+  background-color: #ead8b1;
+}
+
+h1 {
+  text-align: center;
+  color: #6a9ab0;
+}
+
+.bold {
+  font-weight: bold;
+  color: #001f3f;
+}
+
+#underline {
+  text-decoration: underline;
+  color: #3a6d8c;
+}
+
+#rights {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+img {
+  height: 200px;
+}
